@@ -18,8 +18,5 @@ public class ChangeColors : MonoBehaviour
         
     }
 
-    public void InjectRayOrigin()
-    {
-        Debug.Log(transform.position);
-    }
+   
 }
